@@ -82,6 +82,7 @@ img {
     border: 2px dashed #0779e4;
 }
 
+/* Hierarchial relationship */
 nav ul li a.active {
     background-color: #055ea2;
 }
