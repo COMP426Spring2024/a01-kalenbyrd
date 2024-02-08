@@ -127,3 +127,15 @@ table {
     opacity: 1;
 }
 
+#easter-egg-link {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    opacity: 0.1;
+    transition: opacity 0.5s;
+}
+
+#easter-egg-link:hover {
+    opacity: 1;
+}
+
